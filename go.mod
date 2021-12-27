@@ -16,7 +16,7 @@ require (
 	github.com/charithe/durationcheck v0.0.8
 	github.com/daixiang0/gci v0.2.9
 	github.com/denis-tingajkin/go-header v0.4.2
-	github.com/esimonov/ifshort v1.0.2
+	github.com/esimonov/ifshort v1.0.4
 	github.com/fatih/color v1.12.0
 	github.com/fzipp/gocyclo v0.3.1
 	github.com/go-critic/go-critic v0.5.6
