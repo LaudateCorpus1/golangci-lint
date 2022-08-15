@@ -19,7 +19,7 @@ require (
 	github.com/esimonov/ifshort v1.0.2
 	github.com/fatih/color v1.12.0
 	github.com/fzipp/gocyclo v0.3.1
-	github.com/go-critic/go-critic v0.5.6
+	github.com/go-critic/go-critic v0.6.4
 	github.com/go-xmlfmt/xmlfmt v0.0.0-20191208150333-d5b6f63a941b
 	github.com/gofrs/flock v0.8.1
 	github.com/golangci/check v0.0.0-20180506172741-cfe4005ccda2
@@ -84,7 +84,7 @@ require (
 	github.com/uudashr/gocognit v1.0.5
 	github.com/valyala/quicktemplate v1.6.3
 	github.com/yeya24/promlinter v0.1.0
-	golang.org/x/tools v0.1.5
+	golang.org/x/tools v0.1.12
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	honnef.co/go/tools v0.2.1
 	mvdan.cc/gofumpt v0.1.1
