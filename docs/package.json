@@ -31,7 +31,7 @@
     "gatsby-remark-embedder": "^4.2.0",
     "gatsby-remark-external-links": "0.0.4",
     "gatsby-remark-images": "^3.11.1",
-    "gatsby-remark-mermaid": "^2.1.0",
+    "gatsby-remark-mermaid": "^3.0.1",
     "gatsby-remark-responsive-iframe": "^2.11.0",
     "gatsby-source-filesystem": "^2.11.1",
     "gatsby-transformer-remark": "^2.16.1",
