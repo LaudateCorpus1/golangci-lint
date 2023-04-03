@@ -65,7 +65,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.0.6
 	github.com/securego/gosec/v2 v2.8.1
 	github.com/shazow/go-diff v0.0.0-20160112020656-b6b7b6733b8c
-	github.com/shirou/gopsutil/v3 v3.21.8
+	github.com/shirou/gopsutil/v3 v3.23.3
 	github.com/sirupsen/logrus v1.8.1
 	github.com/sonatard/noctx v0.0.1
 	github.com/sourcegraph/go-diff v0.6.1
@@ -73,7 +73,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.8.1
 	github.com/ssgreg/nlreturn/v2 v2.1.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.2
 	github.com/tdakkota/asciicheck v0.0.0-20200416200610-e657995f937b
 	github.com/tetafro/godot v1.4.10
 	github.com/timakin/bodyclose v0.0.0-20200424151742-cb6215831a94
@@ -85,7 +85,7 @@ require (
 	github.com/valyala/quicktemplate v1.6.3
 	github.com/yeya24/promlinter v0.1.0
 	golang.org/x/tools v0.1.5
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	honnef.co/go/tools v0.2.1
 	mvdan.cc/gofumpt v0.1.1
 	mvdan.cc/interfacer v0.0.0-20180901003855-c20040233aed
